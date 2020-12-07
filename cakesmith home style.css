@@ -1,0 +1,189 @@
+#header{
+    background-color:rgb(255, 255, 189);
+    border: 2px rgb(248, 248, 112) solid;
+    text-align: center;
+    font-size: 45px;
+    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#header a{
+    text-decoration: none;
+    color: black;
+}
+
+#logo{
+    height: auto;
+    width: 5%;
+    padding-right: 5px;
+    vertical-align: middle;
+}
+
+#nav{
+    background-color: rgb(255, 255, 189);
+    border: 2px rgb(248, 248, 112) solid;
+    border-top: none;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+#nav_home{
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+}
+
+.home_icon{
+    width: 3%;
+    height: auto;
+    vertical-align: middle;
+    padding-right: 3px;
+}
+
+#nav_cart{
+    color: black;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 77%;
+    margin-right: 40px;
+}
+
+.cart_icon{
+    width: 3%;
+    height: auto;
+    vertical-align: middle;
+    padding-right: 1px;
+}
+
+#ulist{
+    list-style: none;
+    padding-left: 0;
+}
+
+.menu{
+    border: 2px rgb(248, 248, 112) solid;
+    background-color: rgb(255, 255, 189);
+    overflow: auto;
+}
+
+.img_menu{
+    float: left;
+    margin-left: 120px;
+    margin-right: auto;
+    width: 25%;
+}
+
+.desc_product{ 
+   float: left;
+   width: 50%;
+   margin-left: 100px;
+   margin-top: 35px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.desc_product p{
+    font-size: 20px;
+}
+
+.price_title{
+    font-size: 20px;
+}
+
+.price_product{
+    font-size: 20px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+}
+
+.btn_addItem{
+    font-size: 21px;
+    margin-left: 250px;
+    margin-top: 20px;
+    background-color: rgb(252, 253, 162);
+    border: 2px solid rgb(229, 229, 170);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#instagram_contact{
+    margin-left: 5px;
+    margin-right: 8px;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#instagram_icon{
+    width: 2.5%;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+#wa_contact{
+    margin-left: 5px;
+    margin-right: 8px;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#wa_icon{
+    width: 2.5%;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+#email_contact{
+    margin-left: 5px;
+    margin-right: 8px;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#email_icon{
+    width: 3%;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+#phone_contact{
+    margin-left: 5px;
+    margin-right: 8px;
+    color: black;
+    text-decoration: none;
+    font-size: 17px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#phone_icon{
+    width: 2.5%;
+    vertical-align: middle;
+    padding-right: 5px;
+}
+
+#copyright{
+    display: block;
+    font-size: 19px;
+    margin-top: 20px;
+}
+
+#footer{
+    background-color: rgb(255, 255, 189);
+    border: 2px rgb(248, 248, 112) solid;
+    margin-top: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+

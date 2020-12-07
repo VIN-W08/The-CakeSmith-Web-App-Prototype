@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The CakeSmith Cart</title>
+    <link rel="stylesheet" href="cakesmith cart style.css"> 
+    <link rel="stylesheet" href="cakesmith home style.css">
+    <link rel="shortcut icon" href="../assets/The Cakesmith logo.jpg">
+    <script src="cart.js" async></script>
+</head>
+<body>
+    <div id="header">
+        <img src="../assets/The Cakesmith logo.jpg" alt="The CakeSmith Logo" id="logo">
+        The CakeSmith
+    </div>
+
+    <div id=nav>
+        <a href="cakesmith home.html" id="nav_home"><img src="../assets/home icon.png" class="home_icon">Home</a>
+        <a href="cakesmith cart.html" id="nav_cart"><img src="../assets/cart icon.png" class="cart_icon">Cart</a>
+    </div>
+
+    <h1 id="cart_title">Order Cart</h1>
+    <table id="cart_items" style="width: 100%;">
+        <tr>
+            <th id="cellBorder_besProductT"></th>
+            <th id="cell_productTitle">Product</th>
+            <th id="cell_qty">Quantity</th>
+            <th id="cell_priceEach">@ Price Each (Rp)</th>
+            <th id="cell_pricePerItem">Price (Rp)</th>
+        </tr>
+        <tr id="total_price_row">
+            <td class="cell_hide"></td>
+            <td class="cell_hide"></td>
+            <td id="cellBorder"></td>
+            <th id="total_price_title">Total Price (Rp)</th>
+            <td id="total_price"></td>
+        </tr>
+    </table>    
+    
+    <a href="./'cakesmith check out.php'" id="check_out">Check out</a>
+    
+    <div id="footer">
+        <a href="" id="instagram_contact"><img src="../assets/instagram icon.png" id="instagram_icon">The CakeSmith.id</a>
+        <a id="wa_contact"><img src="../assets/WhatsApp icon.png" id="wa_icon">0823-6565-9221</a>
+        <a id="email_contact"><img src="../assets/email icon.png" id="email_icon">thecakesmith.id@gmail.com</a>
+        <a id="phone_contact"><img src="../assets/phone icon.png" id="phone_icon">0823-6565-9221</a>
+        <span id="copyright">&copy;The CakeSmith</span>
+    </div>
+</body> 
+</html>

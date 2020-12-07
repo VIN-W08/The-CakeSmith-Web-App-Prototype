@@ -1,0 +1,38 @@
+#check_out_title{
+    font-size: 28px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#form_check_out{
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cboxes_social_media{
+    text-align: left;
+    margin-left: 39.5%;
+    font-size: 16px;
+}
+
+#verLine_lineOp{
+    margin-left: 51px;
+    margin-right: 45.5px;
+}
+
+#go_to_cart{
+    text-decoration: none;
+    color: black;
+    background-color:rgb(254, 255, 214);
+    border: 1px solid rgb(248, 248, 121);
+    padding: 2px 5px 2px 5px;
+    margin-top: 30px;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cout_submitBtn{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
